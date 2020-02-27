@@ -1,0 +1,35 @@
+@sammy berikut detail login untuk access ke server gw:
+
+1. mysql
+    
+user: fmsuser
+
+pwd: dasHboard@!!!
+dtbase: fmsdata
+
+ip: 124.158.178.124 atau istock.yerryprimatama.com
+    
+
+phpmyadmin: http://istock.yerryprimatama.com/phpmyadmin
+
+2. FTP
+    
+ip: 124.158.178.124 atau istock.yerryprimatama.com    
+user: ftpuser
+password: $siMpan!!@
+
+
+Smartfill
+Reff	PTYerryP1567
+Secret	529163fb24688da3
+
+Recurring periods are defined by the period name which may be one of the following: 
+• All 
+• Today 
+• Yesterday 
+• Current Week 
+• Previous Week 
+• Current Month 
+• Previous Month 
+• Current Year 
+• Previous Year
